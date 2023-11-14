@@ -1,0 +1,15 @@
+{
+    "name": "mohammed/xml_to_json",
+    "description": "convert xml data to json",
+    "autoload": {
+        "psr-4": {
+            "Mohammed\\XmlToJson\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohammed"
+        }
+    ],
+    "require": {}
+}
